@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="122" height="38" viewBox="0 0 122 38" role="img" aria-label="Portfolio">
   <title>Portfolio</title>
   <rect x=".5" y=".5" width="121" height="37" rx="10" fill="#14171C" stroke="#292E36"/>
-  <circle cx="23" cy="19" r="9" fill="none" stroke="#FF7A1A" stroke-width="2"/><ellipse cx="23" cy="19" rx="4" ry="9" fill="none" stroke="#FF7A1A" stroke-width="1.6"/><path d="M14 19h18" stroke="#FF7A1A" stroke-width="1.6"/>
+  <circle cx="23" cy="19" r="9" fill="none" stroke="#8B5CF6" stroke-width="2"/><ellipse cx="23" cy="19" rx="4" ry="9" fill="none" stroke="#8B5CF6" stroke-width="1.6"/><path d="M14 19h18" stroke="#8B5CF6" stroke-width="1.6"/>
   <text x="44" y="24.5" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#F5F5F5" textLength="60" lengthAdjust="spacingAndGlyphs">Portfolio</text>
 </svg>

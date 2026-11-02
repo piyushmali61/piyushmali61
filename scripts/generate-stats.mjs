@@ -14,7 +14,7 @@ import { fileURLToPath } from "node:url";
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const LOGIN = process.env.PROFILE_LOGIN || "piyushmali61";
 const C = {
-  bg: "#0B0D10", surface: "#14171C", surface2: "#1C2128", accent: "#FF7A1A", accent2: "#FFB347",
+  bg: "#0B0D10", surface: "#14171C", surface2: "#1C2128", accent: "#8B5CF6", accent2: "#C084FC",
   text: "#F5F5F5", text2: "#A0A7B4", border: "#292E36",
 };
 const SANS = "'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif";

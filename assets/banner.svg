@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="t">
   <title id="t">Welcome to my GitHub. Piyush Mali, Full-Stack Developer. Building Ideas. Engineering Solutions. Delivering Impact.</title>
   <defs>
-    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#FF7A1A" stroke-opacity=".09"/></pattern>
-    <linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#FF7A1A"/><stop offset="1" stop-color="#FFB347"/></linearGradient>
-    <linearGradient id="scan" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#FF7A1A" stop-opacity="0"/><stop offset=".5" stop-color="#FFB347" stop-opacity=".18"/><stop offset="1" stop-color="#FF7A1A" stop-opacity="0"/></linearGradient>
-    <radialGradient id="glow" cx="50%" cy="50%" r="55%"><stop offset="0" stop-color="#FF7A1A" stop-opacity=".16"/><stop offset="1" stop-color="#FF7A1A" stop-opacity="0"/></radialGradient>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8B5CF6" stroke-opacity=".09"/></pattern>
+    <linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#C084FC"/></linearGradient>
+    <linearGradient id="scan" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#8B5CF6" stop-opacity="0"/><stop offset=".5" stop-color="#C084FC" stop-opacity=".18"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="55%"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".16"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
     <clipPath id="c"><rect width="1200" height="220" rx="14"/></clipPath>
   </defs>
   <style>
@@ -23,9 +23,9 @@
     <rect class="glow" width="1200" height="220" fill="url(#glow)"/>
     <rect class="scan" width="1200" height="60" fill="url(#scan)"/>
   </g>
-  <path d="M20 46V20h26M1154 20h26v26M1180 174v26h-26M46 200H20v-26" fill="none" stroke="#FF7A1A" stroke-width="2"/>
+  <path d="M20 46V20h26M1154 20h26v26M1180 174v26h-26M46 200H20v-26" fill="none" stroke="#8B5CF6" stroke-width="2"/>
   <g class="m" font-size="11" fill="#A0A7B4" letter-spacing="2">
-    <text x="40" y="44"><tspan class="blink" fill="#FF7A1A">●</tspan> SYS.ONLINE // WELCOME TO MY GITHUB</text>
+    <text x="40" y="44"><tspan class="blink" fill="#8B5CF6">●</tspan> SYS.ONLINE // WELCOME TO MY GITHUB</text>
     <text x="1160" y="44" text-anchor="end">JALGAON · IN</text>
     <text x="1160" y="186" text-anchor="end">REACT · NEXT.JS · TYPESCRIPT · NODE.JS</text>
     <text x="40" y="186">VP @ SSBT IGNITE E-CELL</text>
