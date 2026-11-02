@@ -30,5 +30,7 @@ jobs:
           target_branch: output
           build_dir: dist
           commit_message: "chore: update contribution snake"
+          author: Piyush Mali <191071905+piyushmali61@users.noreply.github.com>
+          committer: Piyush Mali <191071905+piyushmali61@users.noreply.github.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
