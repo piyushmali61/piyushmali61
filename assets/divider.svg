@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="8" viewBox="0 0 1200 8" role="presentation" aria-hidden="true">
+  <defs>
+    <linearGradient id="base" x1="0" x2="1"><stop offset="0" stop-color="#FF7A1A" stop-opacity="0"/><stop offset=".5" stop-color="#FF7A1A" stop-opacity=".45"/><stop offset="1" stop-color="#FF7A1A" stop-opacity="0"/></linearGradient>
+    <linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-color="#FFB347" stop-opacity="0"/><stop offset=".5" stop-color="#FFB347"/><stop offset="1" stop-color="#FFB347" stop-opacity="0"/></linearGradient>
+  </defs>
+  <style>.s{animation:s 6s ease-in-out infinite}@keyframes s{from{transform:translateX(-300px)}to{transform:translateX(1200px)}}@media (prefers-reduced-motion: reduce){*{animation:none!important}.fade{opacity:1!important}}</style>
+  <rect y="3" width="1200" height="2" rx="1" fill="url(#base)"/>
+  <rect class="s" y="2.5" width="300" height="3" rx="1.5" fill="url(#shine)"/>
+</svg>
